@@ -1,0 +1,18 @@
+{
+  "name": "api-creation-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "EventAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server": "node EventAPI.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0",
+    "multer": "^2.0.2"
+  }
+}
