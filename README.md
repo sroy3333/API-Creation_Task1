@@ -60,7 +60,7 @@ Get Event by ID
 GET /events?id=:event_id
 
 Example:
-GET http://localhost:3000/api/v3/app/events?id=65a8f6c1d8c8f8e9c9b12345
+GET http://localhost:3000/api/v3/app/events?id=<EVENT_ID>
 
 Get Latest Events (Paginated)
 GET /events?type=latest&limit=5&page=1
