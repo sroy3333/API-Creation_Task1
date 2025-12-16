@@ -38,7 +38,7 @@ Environment Variables
 Create a .env file:
 
 env
-MONGO_URI=<your_mongodb_connection_string>
+MONGO_URI="mongodb+srv://new-user_31:nJ2eDpCCyyEhlkOz@cluster0.dvyo9.mongodb.net"
 DB_NAME=event_app
 
 Start the Server
